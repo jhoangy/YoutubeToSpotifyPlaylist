@@ -1,4 +1,4 @@
-  Autmate Spotify with Python
+Autmate Spotify with Python
 
 Extract music videos from your YouTube playlist and adds them to a Spotify playlist
 
